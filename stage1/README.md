@@ -126,13 +126,38 @@ Keywords are reserved words in python
 Print SUM
 ---
 a = 2
+
 b = 3
+
 sum = a + b
+
 print(sum)
 
-![image](https://github.com/user-attachments/assets/c7574333-4493-4db0-a058-bc2ea401bb0b)
-
 ![image](https://github.com/user-attachments/assets/c04a5be4-d592-4335-a373-fc0005d68e5d)
+
+The same goes with all math calculations like subtraction, multiplication etc....
+
+Comments in Python
+---
+'#' - For a single line comment
+
+''' - For multi line comment
+
+you can comment out using keyboard also - ( ctrl + / )
+
+Types of Operators
+---
+An operator is a symbol that performs a certain operations between operands
+
+| Operator Name | Operators |   
+|:----------|:--------------------------|
+| Arithmetic               |+, -, *, /, %, ** |
+| Relational/Comparison    |==, !=, >, <, >=, <=|
+| Assignment               |=, +=, -=, *=, /=, %=, **=|
+| Logical                  |not, and, or|
+
+
+
 
 
 
