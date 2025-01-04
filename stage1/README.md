@@ -204,11 +204,20 @@ Practice Questions
 
    ![image](https://github.com/user-attachments/assets/df68e6c6-6386-4afe-ad4c-905f37e1956b)
 
-#3. WAP to input 2 floating point numbers & print their average.
+3. WAP to input 2 floating point numbers & print their average.
 
 ![image](https://github.com/user-attachments/assets/a195f8fb-29af-47ab-b892-b3128459ca76)
 
 ![image](https://github.com/user-attachments/assets/36809799-2be2-4777-826b-aeccdcf8aacc)
+
+4. WAP to input 2 int numbers, a and b. Print True if a is greater than or equal to b. If not print False.
+
+![image](https://github.com/user-attachments/assets/4ec3d53a-6b74-4228-bd11-328dbb734f33)
+
+
+![image](https://github.com/user-attachments/assets/ef5fcc0a-a1bc-4db6-94a5-32e68b4a8c66)
+
+
 
 
    
