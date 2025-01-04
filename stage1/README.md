@@ -200,9 +200,9 @@ Practice Questions
 
 2. WAP to input side of a square & print its area
 
-   ![image](https://github.com/user-attachments/assets/b63b80ab-a939-479f-9dc3-9e2b1ee9641d)
+![image](https://github.com/user-attachments/assets/b63b80ab-a939-479f-9dc3-9e2b1ee9641d)
 
-   ![image](https://github.com/user-attachments/assets/df68e6c6-6386-4afe-ad4c-905f37e1956b)
+![image](https://github.com/user-attachments/assets/df68e6c6-6386-4afe-ad4c-905f37e1956b)
 
 3. WAP to input 2 floating point numbers & print their average.
 
