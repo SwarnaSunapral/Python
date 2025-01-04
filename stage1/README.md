@@ -157,6 +157,20 @@ An operator is a symbol that performs a certain operations between operands
 | Logical                  |not, and, or|
 
 
+Type Conversions
+---
+| Type Coversion | Type Casting |   
+|:----------|:--------------------------|
+| Automatically |Manually |
+| a = 2         |a = "2"|
+| b = 3.5       |b = 3.5|
+| sum = a + b   |sum = int("2") + b|
+|result = 5.5   |result = 5.5|   
+
+
+
+
+
 
 
 
