@@ -2,15 +2,20 @@ Drive link for Stage1
 
 https://drive.google.com/drive/folders/1LahwPSc6f9nkxBiRrz6LFUzkrg-Kzvov 
 
+Intro
+---
+
 Code(python)  --------Complier/Interpreter-------->  Machine(0,1)
                         
         
 
-**FIRST PROGRAM**
+FIRST PROGRAM
+---
 
 . print(" Hello World ")   // print is a Function
 
-**CHARACTER SET**
+CHARACTER SET
+---
 
 . letters          - a-z, A-Z
 
@@ -26,7 +31,8 @@ Code(python)  --------Complier/Interpreter-------->  Machine(0,1)
 
 //(https://en.wikipedia.org/wiki/List_of_Unicode_characters) - Unicode Characters 
 
-**PYTHON SAMPLES**
+PYTHON SAMPLES
+---
 
 ''' We can print strings on pyhton 
 - print("My name is swarna")
@@ -54,13 +60,11 @@ Code(python)  --------Complier/Interpreter-------->  Machine(0,1)
    
 '''we can add, subtract, multiply etc...... in python
 
-                       ----VARIABLES----
+VARIABLES
+---
 A variable is a name given to a memory location in a program
                                   |
-                               ___________________________________
-                              |  ____    ____     ____     ____   |-------------> Memory 
-                              | |____|  |____|   |____|   |____|--|-------------> data will be stored in this cells
-                              |___________________________________|
+                           
 Syntax  : var  = value                                         
 Example : name = Swarna
           age  = 21 
@@ -69,13 +73,14 @@ Example : name = Swarna
 ''' code 
 name = "Swarna"
 age = 21                ---------// here '=' is a assignmnet value. 21 is getting stored in age variable
-                                    age1 = age ( here age will be stored in age1 i.e, 21 
-print("My name is:", name)      
-print("My age is:", age) 
-              //output = My name is : Swarna
-                         My age is : 21
+                                    age1 = age ( here age will be stored in age1 i.e, 21 )
+- print("My name is:", name)      
+- print("My age is:", age) 
+- output = My name is : Swarna
+- My age is : 21
 
-                       ----Rules for Identifiers----
+Rules for Identifiers
+---
 1. Identifiers can be the combination of 
                                   . a - z
                                   . A - Z
@@ -87,8 +92,15 @@ print("My age is:", age)
 3. We cannot use specific symbols like $,%,@ etc 
 4. Identifiers can be of any length.
 
-              Variable name should be simple, short, and meaningful
+'''Variable name should be simple, short, and meaningful
 
-                         ----DATA TYPES----
-print(type(name))
-            output = <class 'str'>
+DATA TYPES
+---
+- print(type(name))
+- output = <class 'str'>
+1. Intergers - +ve, -ve, 0
+2. String - "Swarna" 'Swarna' "'Swarna'"
+3. Float - 1.1 2.33
+4. Boolean - True | False
+5. None 
+  
