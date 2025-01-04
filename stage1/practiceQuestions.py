@@ -19,3 +19,12 @@ sum = val1 + val2                               # 8.0
 average = sum/2                                 # 4.0
 print(sum)
 print("Average of the numbers is:", average)
+
+#4. WAP to input 2 int numbers, a and b.
+#   Print True if a is greater than or equal to b. If not print False.
+
+a = int(input("Enter the value:"))  # 5
+b = int(input("Enter the value:"))  # 4
+
+print(a >= b)                       # True
+
