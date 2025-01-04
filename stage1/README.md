@@ -190,6 +190,18 @@ Here it results an error because we have added data type int to the string i.e, 
 
 . float(input()) - float value
 
+Practice Questions 
+---
+Write a program to input 2 numbers & print their sum.
+
+![image](https://github.com/user-attachments/assets/9f548939-7d10-4b8f-a525-646edd56c84b)
+
+![image](https://github.com/user-attachments/assets/f7291170-2e0f-4a1b-b9c8-76ebb4ffdefd)
+
+
+
+
+
 
 
 
