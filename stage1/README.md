@@ -173,9 +173,24 @@ input() statement is used to accept values from the user
 
 . input()        - always results a string
 
+
+![image](https://github.com/user-attachments/assets/4851dc88-0cc5-49d0-9156-b48c5aff8980)
+
+
+![image](https://github.com/user-attachments/assets/2c57ac08-4310-4b93-8573-5bd8d4891913)
+
+Here it results an error because we have added data type int to the string i.e, input()
+
 . int(input())   - int value
 
+![image](https://github.com/user-attachments/assets/bcbc54bc-a6cc-4fc0-af1c-51e26d482478)
+
+![image](https://github.com/user-attachments/assets/387c20f9-ee04-4ef7-9d3e-a5a9f4785509)
+
+
 . float(input()) - float value
+
+
 
 
 
