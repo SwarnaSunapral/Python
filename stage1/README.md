@@ -99,8 +99,14 @@ DATA TYPES
 - print(type(name))
 - output = <class 'str'>
 1. Intergers - +ve, -ve, 0
-2. String - "Swarna" 'Swarna' "'Swarna'"
-3. Float - 1.1 2.33
-4. Boolean - True | False
-5. None 
+2. String - "Swarna" 'Swarna' '''Swarna'''
+   
+   ![image](https://github.com/user-attachments/assets/d906081e-c10b-46d6-8e85-f9484f665a0e)
+
+   ![image](https://github.com/user-attachments/assets/4ba6fc04-269a-4e6f-843f-f5914c28c24d)
+
+
+4. Float - 1.1 2.33
+5. Boolean - True | False
+6. None 
   
