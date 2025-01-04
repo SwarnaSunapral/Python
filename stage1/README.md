@@ -192,11 +192,22 @@ Here it results an error because we have added data type int to the string i.e, 
 
 Practice Questions 
 ---
-Write a program to input 2 numbers & print their sum.
+1. Write a program to input 2 numbers & print their sum.
 
 ![image](https://github.com/user-attachments/assets/9f548939-7d10-4b8f-a525-646edd56c84b)
 
 ![image](https://github.com/user-attachments/assets/f7291170-2e0f-4a1b-b9c8-76ebb4ffdefd)
+
+2. WAP to input side of a square & print its area
+
+   ![image](https://github.com/user-attachments/assets/b63b80ab-a939-479f-9dc3-9e2b1ee9641d)
+
+   ![image](https://github.com/user-attachments/assets/df68e6c6-6386-4afe-ad4c-905f37e1956b)
+
+   
+
+
+   
 
 
 
