@@ -165,7 +165,21 @@ Type Conversions
 | a = 2         |a = "2"|
 | b = 3.5       |b = 3.5|
 | sum = a + b   |sum = int("2") + b|
-|result = 5.5   |result = 5.5|   
+|result = 5.5   |result = 5.5|  
+
+Input in Python
+---
+input() statement is used to accept values from the user
+
+. input()        - always results a string
+
+. int(input())   - int value
+
+. float(input()) - float value
+
+
+
+
 
 
 
