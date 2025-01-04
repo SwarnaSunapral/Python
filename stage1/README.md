@@ -109,4 +109,35 @@ DATA TYPES
 4. Float - 1.1 2.33
 5. Boolean - True | False
 6. None 
+
+   ![image](https://github.com/user-attachments/assets/7946e67f-f93c-4789-836b-cd70534dd4f5)
+
+   ![image](https://github.com/user-attachments/assets/2f9ffbab-39d6-4ec9-b3ed-a90dad0d74d9)
+
+KEYWORDS
+---
+Keywords are reserved words in python
+
+![image](https://github.com/user-attachments/assets/e39e74e6-367a-41a9-872a-11f0d307612f)
+
+. We cannot use these keywords as variables.
+. Python is a case sensitive. e.g, None, True 
+
+Print SUM
+---
+a = 2
+b = 3
+sum = a + b
+print(sum)
+
+![image](https://github.com/user-attachments/assets/c7574333-4493-4db0-a058-bc2ea401bb0b)
+
+![image](https://github.com/user-attachments/assets/c04a5be4-d592-4335-a373-fc0005d68e5d)
+
+
+
+
+
+
+
   
