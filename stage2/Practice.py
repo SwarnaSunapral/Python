@@ -22,4 +22,39 @@ elif(marks >= 70 and marks < 80):
 elif(marks < 70):
     print("grade = D")
 
+#4. WAP to check if a number entered by the user is odd or even 
+
+num = int(input("Enter the number:"))
+
+if(num % 2 == 0):
+    print("The number is even", num)
+else:
+    print("The number is odd", num)
+
+#5. WAP to find the greatest of 3 numbers entered by the user
+
+a = int(input("Enter the 1st number:"))
+b = int(input("Enter the 2nd number:"))
+c = int(input("Enter the 3rd number:"))
+
+if(a > b and a > c):
+    print("The greatest number is:", a)
+elif(b > c):
+    print("The greatest number is",b)
+else:
+    print("The greatest number is",c)
+
+
+#6. WAP to check if a number is a multiple of 7 or not.
+
+num = int(input("Enter the number:"))
+
+if(num%7 == 0):
+    print("The number is divisible by 7 is:", num)
+else:
+    print("The number is not divisible by 7")
+
+
+
+
 
