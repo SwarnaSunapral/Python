@@ -27,3 +27,21 @@ elif(num > 3):
     print("yes")
 
 # here the output is only one yes because when the if condition is true it doesnot check the next condition 
+
+#...............................................................................................................................
+
+**Nesting
+
+age = 30
+
+if(age >= 18):
+    if(age >= 20):
+        print("cannot drive")
+    else:
+        print("Can drive")
+else:
+    print("ok")
+
+# output is Cannot Drive 
+
+
