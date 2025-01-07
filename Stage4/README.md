@@ -66,6 +66,11 @@ Dic.update(newDict) - inserts the specified items to the dictionary
     print(student["name1"])              # gives error
     print(student.get("name1"))          # gives None
 
+   
+    student.update({"name5" : "bubblu"}) # adds the new key to the dictionary and updates the same
+    print(student)
+
+
     
 
     
