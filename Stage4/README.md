@@ -70,6 +70,13 @@ Dic.update(newDict) - inserts the specified items to the dictionary
     student.update({"name5" : "bubblu"}) # adds the new key to the dictionary and updates the same
     print(student)
 
+Sets
+---
+
+Set is the collection of the unordered items
+
+Each element in the set must be the unique & immutable
+
 
     
 
